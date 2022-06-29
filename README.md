@@ -1,4 +1,5 @@
 # Strativ Employee Management in Odoo
+We'll deveolop an `Odoo` moudule for Strativ Employee Management.
 
 ## Installation
 
@@ -19,3 +20,6 @@
   docker-compose up -d
   ```
 * Open [localhost:8069](http://localhost:8069) in browser
+
+## Reference
+* [Odoo Developer Doc](https://www.odoo.com/documentation/15.0/developer.html)
