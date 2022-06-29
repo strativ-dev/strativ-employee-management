@@ -23,3 +23,5 @@ We'll deveolop an `Odoo` moudule for Strativ Employee Management.
 
 ## Reference
 * [Odoo Developer Doc](https://www.odoo.com/documentation/15.0/developer.html)
+* [Odoo Docker Image](https://hub.docker.com/_/odoo)
+* [Postgres Docker Image](https://hub.docker.com/_/postgres)
