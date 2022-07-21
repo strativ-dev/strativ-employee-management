@@ -5,5 +5,7 @@
     "depends": ["base"],
     "data": [
         "security/ir.model.access.csv",
+        "views/employee_views.xml",
+        # "views/team_views.xml",
     ]
 }

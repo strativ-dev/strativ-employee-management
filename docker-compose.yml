@@ -2,6 +2,7 @@ version: '3.1'
 services:
   web:
     image: odoo:15.0
+    command: --dev=all -d strativ_dev -u strativ_employee
     platform:  linux/amd64
     restart: always
     depends_on:
